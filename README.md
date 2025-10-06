@@ -1,5 +1,5 @@
 <!-- Space reserved for images -->
-![NASA Image (do not use logos/insignia if AI-generated)](src/NASA-Emblem.jpg)
+![NASA Image (do not use logos/insignia if AI-generated)](src/nasa-logo.png)
 
 ### 3D Modeling In Fusion 360— OrbiTech Module
 
